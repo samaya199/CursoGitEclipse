@@ -5,3 +5,8 @@
 body {
   background-color: blueviolet;
 }
+
+.contenedor {
+  background-color: coral;
+  padding: 1px;
+}
